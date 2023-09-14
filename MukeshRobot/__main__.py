@@ -86,7 +86,7 @@ PM_START_TEXT = """
 ╚═════════════════❍⊱❁۪۪
       ╔═════ஜ۩۞۩ஜ════╗
 
-       ♨️𝗠𝗔𝗗𝗘 𝗕𝗬 𝗩𝗜𝗣 𝗕𝗢𝗬♨️
+       ♨️ADARSH RAJPUT ♨️
     
       ╚═════ஜ۩۞۩ஜ════╝
 
@@ -94,7 +94,7 @@ PM_START_TEXT = """
 
 💐𝐅𝐞𝐞𝐥 😍 𝐋𝐚𝐠 📍 𝐅𝐫𝐞𝐞 😇 𝐓𝐨 🕊️ 𝐀𝐝𝐝 𝐌𝐞 𝐈𝐧 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 🤖 𝐀𝐧𝐝 🩸 𝐄𝐧𝐣𝐨𝐲 ❥︎ 𝐒𝐮𝐩𝐞𝐫 💥 𝐇𝐢𝐠𝐡 💫 𝐐𝐮𝐚𝐥𝐢𝐭𝐲 ⚡ 𝐌𝐚𝐧𝐚𝐠𝐢𝐧𝐠-𝐆𝐫𝐨𝐮𝐩 &   𝐏𝐥𝐚𝐲 🦞 𝐀𝐮𝐝𝐢𝐨 🎧 𝐀𝐧𝐝 🔊 𝐕𝐢𝐝𝐞𝐨 🌷
 
-☆...................τɦє νเρ Βσყ..................☆ 
+☆...................THE ADARSH RAJPUT..................☆ 
 """
 
 buttons = [
@@ -110,7 +110,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🌷𝐆𝐑𝐎𝐔𝐏🌷", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="🏡𝐎𝐅𝐅𝐈𝐂𝐄🏡", url=f"https://t.me/VIP_CREATORS"),
+        InlineKeyboardButton(text="🏡𝐎𝐅𝐅𝐈𝐂𝐄🏡", url=f"https://t.me/https://t.me/viperxsupport1"),
     ],
     [
         InlineKeyboardButton(text="🌱𝐒𝐎𝐔𝐑𝐂𝐄🌱", callback_data="mukesh_"),
